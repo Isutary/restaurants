@@ -1,0 +1,22 @@
+.login-form {
+  border: 1px solid rgba(150, 150, 150, 0.8);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(150, 150, 150, 0.8);
+}
+
+.logo-image-wrapper {
+  box-shadow: 0 0 15px rgba(150, 150, 150, 0.8);
+  margin: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+body {
+  background: rgb(255,255,255);
+  background: linear-gradient(45deg, rgba(255,255,255,1) 40%, rgba(235,0,255,1) 100%);
+}
+
+.not-registered {
+  text-decoration: none;
+}
